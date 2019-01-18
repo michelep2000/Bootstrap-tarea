@@ -1,0 +1,18 @@
+body{
+  background: white;
+
+}
+
+ h1,h2, h3, p, ul, .text{
+	color: black;
+	clear: both;
+  text-align: center;
+}
+.container{
+  background: white;
+  border: 2px solid black;
+}
+.row div{
+  background: white;
+  border: 2px solid black;
+}
