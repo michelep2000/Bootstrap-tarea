@@ -1,5 +1,5 @@
 body{
-  background: white;
+  background: #0A66A4;
 
 }
 
@@ -9,10 +9,15 @@ body{
   text-align: center;
 }
 .container{
+  border-radius: 15px;
   background: white;
-  border: 2px solid black;
+  padding: 50px;
+  background: #3A9FE3;
+
 }
 .row div{
-  background: white;
-  border: 2px solid black;
+  background: #FFA62D;
+  border-radius: 15px;
+  padding: 16px;
+
 }
